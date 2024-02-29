@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "creamycraft:bread_slice"
+    },
+    "C": {
+      "item": "creamycraft:pumpkin_cream"
+    }
+  },
+  "pattern": [
+    "B",
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "creamycraft:bread_with_cream"
+  }
+}

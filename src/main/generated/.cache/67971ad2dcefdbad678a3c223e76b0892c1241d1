@@ -1,16 +1,15 @@
-// 1.20.4	2024-02-24T19:35:22.5026348	CreamyCraft/Model Definitions
+// 1.20.4	2024-02-28T16:04:25.7058628	CreamyCraft/Model Definitions
 9463199d56c1467a77866e1ad6ae7d7efa7c34bd assets\creamycraft\models\item\pumpkin_cream.json
 a6447b0db1f9c1b03638acc1752d8d278cade1a0 assets\creamycraft\models\item\creeper_ice_cream.json
-fd5331d2be338de858617fe0aaf0ea117c5d941b assets\creamycraft\models\item\glass_jar.json
 823875f4a90e8fd490a47de15b8f585c4f2418dc assets\creamycraft\models\item\sunday_special.json
 4b20772cfe9b478d621fad70531e4e2f08ef66fb assets\creamycraft\models\item\cookie_ice_cream_sandwich.json
 018e67c6b2a89ec0219796ab8d2af14972ab69e3 assets\creamycraft\models\item\creeper_essence.json
+773c6db28d4b64e1dc678f4fe9aaba82ffde1bba assets\creamycraft\models\item\bread_slice.json
 7f2418d9b78de8074b0d998c1d18e7b1b683d569 assets\creamycraft\models\item\choco_sundae.json
 05c332c3c2a9c92b3629815e0ff3b906880687e2 assets\creamycraft\models\item\hot_ice_cream.json
-773c6db28d4b64e1dc678f4fe9aaba82ffde1bba assets\creamycraft\models\item\bread_slice.json
 b4403d6ef2e466950afcb907597998284d4eea43 assets\creamycraft\models\item\choco_ice_cream.json
 bb93aa857a2b9989c0192809c2579c7656900e33 assets\creamycraft\models\item\bread_with_cream.json
 2917dc956cd1ca9ddac3d32ec1b41d723c5b861a assets\creamycraft\models\item\jaffa_cake.json
-8ccdbdfe691f4087edd5f6c1551405f4408bb9af assets\creamycraft\models\item\apple_ice_cream.json
 497bc85b7f8f04efcbf1b64337d8a90bf291f24b assets\creamycraft\models\item\caramel_jar.json
+8ccdbdfe691f4087edd5f6c1551405f4408bb9af assets\creamycraft\models\item\apple_ice_cream.json
 51f4891e06ec6c746dfbaf82f469b908f5e897d9 assets\creamycraft\models\item\golden_apple_ice_cream.json

@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bread_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "creamycraft:bread_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_pumpkin_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "creamycraft:pumpkin_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "creamycraft:bread_with_cream"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_bread_slice",
+      "has_pumpkin_cream"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "creamycraft:bread_with_cream"
+    ]
+  }
+}
